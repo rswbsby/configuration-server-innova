@@ -1,5 +1,3 @@
-Berikut adalah README yang telah dirapikan dalam bahasa Indonesia:
-
 ---
 
 # Dokumentasi Sistem
